@@ -1,0 +1,19 @@
+{
+  "name": "chap23",
+  "version": "1.0.0",
+  "main": "Switch.Example.js",
+  "type": "module",
+  "bin": {
+    "chap23": "bin/repl.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "1. Java Project 생성 2. git init 3. gedit .gitignore",
+  "dependencies": {
+    "sprintf-js": "^1.1.2"
+  }
+}

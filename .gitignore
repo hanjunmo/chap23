@@ -1,0 +1,8 @@
+# java
+.classpath
+.project
+.settings/
+bin/
+
+# nodejs
+node_moules/
